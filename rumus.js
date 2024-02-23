@@ -14,7 +14,7 @@ function rumusKelPersegiPjg(panjang, lebar) {
     return 2 * (panjang + lebar);
 }
 
-module.export = {
+module.exports = {
     rumusLuasPersegi,
     rumusKelPersegi,
     rumusLuasPersegiPjg,
